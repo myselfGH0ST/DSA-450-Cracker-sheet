@@ -16,7 +16,6 @@ using namespace std;
 
 void reverse_arr(int a[],int n,int x)
 {
-      
     int t;
     for(int i=0;i<(n-x-1)/2;i++)
     {
